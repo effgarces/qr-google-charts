@@ -1,4 +1,4 @@
-** Attention **: This plugin no longer uses Google Charts, due to its deprecation, instead its using the QuickChart API https://quickchart.io/documentation/qr-codes/
+**Attention** : This plugin no longer uses Google Charts, due to its deprecation, instead its using the QuickChart API https://quickchart.io/documentation/qr-codes/
 
 A plugin for [YOURLS](http://yourls.org) that shows QR codes for short URLs on share page using Google Charts
 
